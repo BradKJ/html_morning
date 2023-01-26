@@ -1,0 +1,18 @@
+h1{
+  color: forestgreen;
+  text-align: center;
+  background-color: antiquewhite;}
+
+  td,th{
+    border: 2px solid black;
+    font-style: italic;
+    font-family: KacstOne;
+    padding: 10px;
+    text-align: center; color: darkslategray;
+    border-radius: 10px;
+  }
+table{
+  width: 90%;
+  border-collapse: collapse;
+  margin: 10px;
+}

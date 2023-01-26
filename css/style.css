@@ -1,0 +1,22 @@
+p{
+  color: blue;
+  text-align: left;
+  background-color: coral;
+  font-style: italic;
+  rotate: inherit;
+
+}
+button{
+  color: darkred;
+  padding: 15px;
+  font-size: 16px;
+  background-color: darkgrey;
+  border:0px;
+  text-align: center;}
+
+ul{
+  color: indianred;
+  background: darkslategrey;
+}
+
+
